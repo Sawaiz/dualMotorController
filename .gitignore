@@ -1,0 +1,15 @@
+*.elf
+*.hex
+*.o
+*.lst
+*.obj
+*.d
+*.eep
+*.lss
+*.sym
+*.map
+*.eeprom
+OldVersions/
+~*
+*~
+*.raw
